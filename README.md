@@ -1,6 +1,7 @@
 # URL shortener action
 
 This action allows you to easily generate HTML pages needed for a simple URL shortener hosted on GitHub Pages.
+Can be useful for open-source projects to manage short URLs for e.g. documentation allowing contributors to create/edit them.
 
 ## Inputs
 
