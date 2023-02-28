@@ -62,7 +62,7 @@ This config will produce:
 
 
 ```yaml
-uses: zziger/url-shortener-action@v1.0
+uses: zziger/url-shortener-action@v1.1
 with:
     path: './public'
     json: './config.json'
