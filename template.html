@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="0; url='%URL%'" />
+    <noscript>
+        <meta http-equiv="refresh" content="0; url='%URL%'" />
+    </noscript>
     <title>Redirecting...</title>
 </head>
 <body>
+    <script>
+        window.location.replace('%URL%' + window.location.hash);
+    </script>
 </body>
 </html>
