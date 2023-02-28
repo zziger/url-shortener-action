@@ -1,7 +1,8 @@
 name: 'GitHub Pages URL shortener'
-icon: external-link
-color: orange
 description: 'Use GitHub Pages as your URL shortener'
+branding:
+  icon: external-link
+  color: orange
 inputs:
   path:
     description: 'Path to the website root'
