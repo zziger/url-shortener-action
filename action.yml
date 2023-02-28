@@ -1,4 +1,4 @@
-name: 'URL shortener'
+name: 'GitHub Pages URL shortener'
 description: 'Use GitHub Pages as your URL shortener'
 inputs:
   path:
